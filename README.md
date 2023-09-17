@@ -16,7 +16,7 @@ The Coffee Machine app is quite a simple application. You can choose out of 3 di
   - latte<br>
   - cappuccino
 
-Each drink requires a determined amount of ingredients to be prepared by the machine.
+Each drink requires a predetermined amount of ingredients to be prepared by the machine.
 You can get a report of the current resources of the coffee machine by typing "report," and you can turn the machine off for maintenance by typing "off."
 
 What are you waiting for?! Enjoy your drink! ☕️😎
