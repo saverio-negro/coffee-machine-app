@@ -11,6 +11,7 @@ Credits: <a href="https://blog.hootsuite.com/instagram-apps-for-business/">HootS
 
 <p>
 The Coffee Machine app is quite a simple application. You can choose out of 3 different hot flavors:<br>
+  
   - espresso<br>
   - latte<br>
   - cappuccino
