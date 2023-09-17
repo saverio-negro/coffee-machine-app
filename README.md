@@ -40,6 +40,6 @@ What are you waiting for?! Enjoy your drink! ☕️😎
 
 You can also run the code to play with it on Replit. <br>
 
-<a href="https://replit.com/@saverionegro/higher-lower-game-app?v=1"><img src="/higher-lower-app-replit.png" width="80%" height="80%"></a>
+<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1"><img src="/coffee-machine-app-replit.png" width="80%" height="80%"></a>
 <br>
-<a href="https://replit.com/@saverionegro/higher-lower-game-app?v=1">The Coffee Machine App Replit</a>
+<a href="https://replit.com/@saverionegro/coffee-machine-app?v=1">The Coffee Machine App Replit</a>
