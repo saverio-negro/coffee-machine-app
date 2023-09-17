@@ -1,1 +1,1 @@
-# coffee-machine-app
+# The Coffee Machine App
