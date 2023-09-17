@@ -1,8 +1,8 @@
 # The Coffee Machine App
 
-<img src="/higher-lower-app-image.png" width="40%" height="40%"></img>
+<img src="/coffee-machine-image.gif" width="40%" height="40%"></img>
 <br>
-Credits: <a href="https://blog.hootsuite.com/instagram-apps-for-business/">HootSuite</a>
+Credits: <a href="https://dribbble.com/shots/4477752-Coffee-Machine">Dribble.com </a> - by <a href="https://dribbble.com/sarvesh-harmalkar">Sarvesh</a>
 <hr>
 
 <p>
