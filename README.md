@@ -6,7 +6,7 @@ Credits: <a href="https://blog.hootsuite.com/instagram-apps-for-business/">HootS
 <hr>
 
 <p>
-  Are you a coffee lover? The kind of person who can't kick-start its day without having loaded up its coffee machine? Then, that's the app you were looking for! ☕️👨🏻‍💻
+  Are you a coffee lover? The kind of person who can't kick-start its day without having loaded up their coffee machine? Then, that's the app you were looking for! ☕️👨🏻‍💻
 </p>
 
 <p>
